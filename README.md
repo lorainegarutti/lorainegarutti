@@ -10,9 +10,15 @@ Escrevo um pouco de Javascript, React.js, React Native e Ruby!
 
 Profissionalmente tenho facilidade em aprender testando e praticando, mas adoro ler artigos de frameworks e tecnologias novas.<br>
 Gosto muito de feedbacks, então seja bem-vinda caso queira submeter uns PR's nervosos 😆💻 <br>
-
+<br><br><br><br>
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorainegarutti&hide=html&layout=compact&theme=buefy" />  
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 <br><br>
 <br><br>
 <br><br>
