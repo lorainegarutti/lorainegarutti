@@ -16,6 +16,8 @@ Gosto muito de feedbacks, então seja bem-vinda caso queira submeter uns PR's ne
 <br><br>
 <br><br>
 <br><br>
+<br><br>
+<br><br>
 
-Capa feita seguindo as dicas da Letícia! 😍 <a target="_blank" href="https://dev.to/dii_lua/github-profile-como-fazer-54o0">Acesse o site e aprenda também!</a><br>
+Capa feita seguindo as dicas da Letícia! 😍 <a target="_blank" href="https://dev.to/dii_lua/github-profile-como-fazer-54o0">Acesse o site dela e aprenda também!</a><br>
 Ícones feitos por <a target="_blank" href="https://www.flaticon.com/br/autores/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon"> www.flaticon.com</a>
