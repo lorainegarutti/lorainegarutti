@@ -1,4 +1,4 @@
-<img src="capa_github.png" alt="capa personalizada github" width="30px">
+<img src="capa_github.png" alt="capa personalizada github">
 ### Oláá, me chamo Loraine (ela/dela) 👋
 
 Sou economista de formação, apaixonada por empreendedorismo e inovação.
