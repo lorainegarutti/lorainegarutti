@@ -6,10 +6,8 @@ Em 2020 fiz transição de carreira para TI e fui iniciada no mundo da Qualidade
 Escrevo um pouco de Javascript, React.js, React Native e Ruby!
 <br><br>
 
-*Amo café (os de ótima qualidade ☕) e drinks (alô Negroni seu perfeito 🍹)*
 
-Profissionalmente tenho facilidade em aprender testando e praticando, mas adoro ler artigos de frameworks e tecnologias novas.<br>
-Gosto muito de feedbacks, então seja bem-vinda caso queira submeter uns PR's nervosos 😆💻 <br>
+Profissionalmente tenho facilidade em aprender testando e praticando, mas adoro ler artigos de frameworks e tecnologias novas. <br>
 <br><br>
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorainegarutti&hide=html&layout=compact&theme=buefy" />  
