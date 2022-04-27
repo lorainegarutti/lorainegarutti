@@ -2,8 +2,8 @@
 <b>Hello, I'm Loraine (she/her) 👋</b>
 <br><br>
 I have a bachelor degree in Economics and I'm passionate about technology and inovation.<br>
-I've started my IT career in 2020 and since then I've working as a QA Engineer.<br>
-My preferred languages are Javascript, Typrescript and Ruby.
+I've started my IT career in 2020 and since then I've been working as a QA Engineer.<br>
+My preferred languages are Javascript, Typescript and Ruby.
 <br><br>
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorainegarutti&hide=html&layout=compact&theme=buefy" />  
