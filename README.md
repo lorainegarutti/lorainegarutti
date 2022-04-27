@@ -1,8 +1,8 @@
 <img src="capa_github.png" alt="capa personalizada github">
-<b>Hello, my name is Loraine (she/her) 👋</b>
+<b>Hello, I'm Loraine (she/her) 👋</b>
 <br><br>
-I have a bachelor degree in Economics and passionate about technology and inovation.<br>
-I've started my IT careen in 2020 and since then I've working as a QA Engineer.<br>
+I have a bachelor degree in Economics and I'm passionate about technology and inovation.<br>
+I've started my IT career in 2020 and since then I've working as a QA Engineer.<br>
 My preferred languages are Javascript, Typrescript and Ruby.
 <br><br>
 
